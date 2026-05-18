@@ -1,4 +1,4 @@
-# Programming Project #X - Name
+# Programming Project #4 - Combinatorics
 
 ## Project Templates
 Our programming projects are programming language agnostic, so feel free to use any of these stylesheets of the langauge of your choice: 
@@ -8,4 +8,8 @@ Our programming projects are programming language agnostic, so feel free to use 
 
 ## Project Instructions
 
-Instructions here
+Write a program that takes integers `n` and `r` where ` 0 < r ≤ n` and booleans for whether repetition is allowed and whether order matters then outputs the number of r-permutations or r-combinations accordingly.
+
+
+## Submission Instructions
+**Submit** "ready for grading" along with which language you used (C++, Java, Python) in the text box on Canvas when you are done with the project. Copy paste your code in the text box or upload a pdf.
