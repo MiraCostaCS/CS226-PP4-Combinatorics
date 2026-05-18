@@ -8,7 +8,7 @@ Our programming projects are programming language agnostic, so feel free to use 
 
 ## Project Instructions
 
-Write a program that takes integers `n` and `r` where ` 0 < r ≤ n` and booleans for whether repetition is allowed and whether order matters then outputs the number of r-permutations or r-combinations accordingly.
+Write a program that takes integers `n` and `r` where `0 < r ≤ n` and booleans for whether repetition is allowed and whether order matters then outputs the number of r-permutations or r-combinations accordingly.
 
 
 ## Submission Instructions
